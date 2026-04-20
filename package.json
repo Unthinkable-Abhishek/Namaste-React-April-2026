@@ -1,0 +1,17 @@
+{
+  "name": "namaste-react-april-2026",
+  "version": "1.0.0",
+  "description": "Learning React JS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Pandey",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  }
+}
